@@ -21,6 +21,7 @@
 		</resources>
 		<plugins>
 			<plugin>
+				<version>2.3.2</version>
 				<groupId>org.easyb</groupId>
 				<artifactId>maven-easyb-plugin</artifactId>
 				<executions>
@@ -126,7 +127,7 @@
                         </manifestEntries>
                     </archive>
                 </configuration>
-            </plugin>            
+            </plugin>
 		</plugins>
 	</build>
 	<profiles>
